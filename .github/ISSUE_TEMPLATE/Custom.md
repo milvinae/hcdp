@@ -1,6 +1,6 @@
 ---
-name: SDK & Code Libraries
-about: A form to submit your SDK or library
+name: Integrations & Expansions
+about: A form to submit your integration or expansion
 
 ---
 
