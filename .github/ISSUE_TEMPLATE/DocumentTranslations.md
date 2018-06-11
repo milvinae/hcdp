@@ -1,11 +1,15 @@
 ---
 name: Document Translations
-about: A form to submit your document translation
+about: A form to create a bounty for document translations
 
 ---
 
-**What language is it in?**
+**PLEASE MAKE NOTE THAT THIS IS A FORM FOR CREATING A BOUNTY NOT SUBMITTING A BOUNTY**
 
-**Ethereum Address**
+**What language do you want translated?**
 
-**Make sure to attach the document**
+**What document do you want translated**
+
+**Timeframe?**
+
+**Submission process?**
