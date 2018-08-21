@@ -1,9 +1,5 @@
----
-name: Community Brainstorming
-about: A form for the community to propose ideas for the HYDRO ecosystem
+The Hydro Community is a place for the community to propose and discuss ideas for the HCDP, with a view to refining them before they are submitted to the official HCDP.
 
----
+The Hydro Community GitHub can be found at https://github.com/HydroCommunity
 
-**PLEASE MAKE NOTE THAT THIS IS A FORM FOR PROPOSING IDEAS, NOT FOR INCLUSION TO THE HCDP**
-
-Ideas that become viable may be sent up the chain to the HCDP in due course.
+Head over to the Hydrogen HCDP wiki for more details on the official submission and development process.
